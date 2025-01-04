@@ -1,6 +1,6 @@
 # MRDDoS
 
-* With this tool, it is able to perform DOS attacks with a packet width of 1024x50.
+* With this tool, it is able to perform DOS attacks with a packet width of 1024x60.
 * =======================[+]=======================
 * For install this tool run these commands:
 * git clone https://github.com/wooserr/MRDDoS
