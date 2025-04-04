@@ -3,7 +3,7 @@
 * With this tool, it is able to perform DOS attacks with a packet width of 1024x60.
 * =======================[+]=======================
 * For install this tool run these commands:
-* git clone https://github.com/wooserr/MRDDoS
+* git clone https://github.com/burakdevelopment/MRDDoS
 * cd MRDDoS
 * python MRDDoS.py
 
